@@ -20,6 +20,7 @@ yarn-error.log*
 dist/
 build/
 *.tsbuildinfo
+package-lock.json
 
 # IDE
 .idea/
@@ -34,6 +35,8 @@ langpz3/.venv
 langpz3/.venv_py311
 langpz3/.env
 langpz3/Dockerfile
+langpz3/get-pip.py
+langpz3/.langgraph_api/
 
 # Include prizm's gitignore
 !prizm/.gitignore
