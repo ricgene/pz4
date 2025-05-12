@@ -1,0 +1,141 @@
+{
+  "user_memory": {
+    "name": "test user",
+    "preferences": {},
+    "last_interaction": 1745775998.8774412,
+    "conversation_history": []
+  },
+  "entity_memory": {
+    "name": "test user",
+    "last_updated": 1745775998.8774395,
+    "source": "direct_introduction",
+    "email": "test@example.com",
+    "id": null
+  },
+  "conversation_memory": {
+    "messages": [
+      {
+        "content": "My name is Test User",
+        "timestamp": 1745774884.3606558,
+        "type": "human"
+      },
+      {
+        "content": "I understand. How can I assist you further?",
+        "timestamp": 1745774884.7634332,
+        "type": "ai"
+      },
+      {
+        "content": "What's my name?",
+        "timestamp": 1745774884.8186097,
+        "type": "human"
+      },
+      {
+        "content": "Your name is user. Is there anything else I can help you with?",
+        "timestamp": 1745774884.8199015,
+        "type": "ai"
+      },
+      {
+        "content": "Do you remember my name?",
+        "timestamp": 1745774884.8221245,
+        "type": "human"
+      },
+      {
+        "content": "I understand. How can I assist you further?",
+        "timestamp": 1745774884.8233876,
+        "type": "ai"
+      },
+      {
+        "content": "My name is Test User",
+        "timestamp": 1745775713.8148227,
+        "type": "human"
+      },
+      {
+        "content": "Hello, Test User! How can I assist you today? If you have any tasks or need information, feel free to let me know!",
+        "timestamp": 1745775716.9034185,
+        "type": "ai"
+      },
+      {
+        "content": "What's my name?",
+        "timestamp": 1745775716.9080532,
+        "type": "human"
+      },
+      {
+        "content": "Your name is unknown to me. If you'd like, you can share it again, or I can continue to call you Test User. How can I assist you today?",
+        "timestamp": 1745775718.0240395,
+        "type": "ai"
+      },
+      {
+        "content": "Do you remember my name?",
+        "timestamp": 1745775718.0289433,
+        "type": "human"
+      },
+      {
+        "content": "I'm sorry, but I don't know your name. If you'd like, you can share it with me!",
+        "timestamp": 1745775718.8163438,
+        "type": "ai"
+      },
+      {
+        "content": "My name is Test User",
+        "timestamp": 1745775966.7094176,
+        "type": "human"
+      },
+      {
+        "content": "Great to meet you, My name is Test User! How can I assist you today? Need help with tasks or finding some information?",
+        "timestamp": 1745775970.1082048,
+        "type": "ai"
+      },
+      {
+        "content": "What's my name?",
+        "timestamp": 1745775970.2174687,
+        "type": "human"
+      },
+      {
+        "content": "Your name is My name is Test User. How can I help you today?",
+        "timestamp": 1745775970.955287,
+        "type": "ai"
+      },
+      {
+        "content": "Do you remember my name?",
+        "timestamp": 1745775970.9585974,
+        "type": "human"
+      },
+      {
+        "content": "Yes, your name is My name is Test User. How can I assist you today?",
+        "timestamp": 1745775971.8377194,
+        "type": "ai"
+      },
+      {
+        "content": "My name is Test User",
+        "timestamp": 1745775998.877539,
+        "type": "human"
+      },
+      {
+        "content": "Great to meet you, Test User! How can I assist you today? Need help with tasks or finding some information?",
+        "timestamp": 1745776000.15084,
+        "type": "ai"
+      },
+      {
+        "content": "What's my name?",
+        "timestamp": 1745776000.156512,
+        "type": "human"
+      },
+      {
+        "content": "Your name is Test User! How can I help you today?",
+        "timestamp": 1745776000.9229093,
+        "type": "ai"
+      },
+      {
+        "content": "Do you remember my name?",
+        "timestamp": 1745776000.9261234,
+        "type": "human"
+      },
+      {
+        "content": "Of course! Your name is test user. How can I assist you today?",
+        "timestamp": 1745776001.57291,
+        "type": "ai"
+      }
+    ],
+    "last_updated": 1745776001.5729134
+  },
+  "last_updated": 1745776001.5736156
+}

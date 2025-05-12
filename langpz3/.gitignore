@@ -1,0 +1,5 @@
+agent/__pycache__
+.venv
+.venv_py311
+.env
+Dockerfile

@@ -1,0 +1,25 @@
+{
+  "user_memory": {
+    "name": null,
+    "preferences": {},
+    "last_interaction": 1745779153.5345643,
+    "conversation_history": []
+  },
+  "entity_memory": {},
+  "conversation_memory": {
+    "messages": [
+      {
+        "content": "i need a kitchen repair",
+        "timestamp": 1745779153.5347714,
+        "type": "human"
+      },
+      {
+        "content": "I understand. How can I assist you further?",
+        "timestamp": 1745779153.5368547,
+        "type": "ai"
+      }
+    ],
+    "last_updated": 1745779153.5368583
+  },
+  "last_updated": 1745779153.791264
+}

@@ -1,0 +1,6 @@
+langpz3/agent/__pycache__
+langpz3/.venv
+langpz3/.venv_py311
+langpz3/.env
+langpz3/Dockerfile
+#include:./pz3/.gitignore

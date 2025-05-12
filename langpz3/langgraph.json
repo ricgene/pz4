@@ -1,0 +1,18 @@
+{
+    "name": "workflow2",
+    "description": "Customer-vendor interaction workflow with sentiment analysis",
+    "entrypoint": "agent/workflow2.py",
+    "project": "prizm-workflow-2",
+    "python_version": "3.11",
+    "graphs": {
+       "workflow2": "./agent/workflow2.py:app"
+    },
+    "environment": {
+        "MOCK_USER_RESPONSES": "false",
+        "MOCK_SENTIMENT_ANALYSIS": "false",
+        "LANGCHAIN_TRACING_V2": "true",
+        "PYTHONPATH": "${PYTHONPATH}:${PWD}"
+    },
+    "requirements": "requirements.txt",
+    "dependencies": [".", "agent"]
+}
